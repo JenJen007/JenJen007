@@ -40,7 +40,7 @@ const jenny = {
 }
 ```
 ## Skills <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 25px>  </picture> Programming Languages
+### <picture> <img src = "https://github.com/JenJen007/JenJen007/blob/main/Images/Programming_Languages.gif?raw=true" width = 25px>  </picture> Programming Languages
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 25px>  </picture> Frontend Development
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/CP_PS.gif?raw=true" width = 25px>  </picture> Backend Development
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 25px>  </picture> Database
