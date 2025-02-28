@@ -6,7 +6,6 @@
 <img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
-
 <hr>
 
 <pre>
@@ -19,6 +18,19 @@
 🚀 Interested in scalable and secure web applications
 🤝 I’m currently open for: <b>Freelance projects</b> or a new <b>job opportunity</b>, this is <a href="https://portfoliojcl.web.app/" target="_blank">MY PORTFOLIO.</a>
 </pre>
-</hr>
 
+---
+
+```javascript
+const jenny = {
+  pronouns: ["she", "her"],
+  code: ["Python", "Java", "JavaScript", "PHP", "HTML", "CSS"],
+  tools: ["React", "Node.js", "Docker", "MySQL"],
+  interests: ["Backend Development", "Cybersecurity", "Scalable Cloud Solutions"],
+  currentlyLearning: ["Cybersecurity Fundamentals", "Cloud Computing (Google Cloud)"],
+  collaboration: "I’m looking forward to collaborating on open-source projects.",
+  askMeAbout: "Ask me about anything, I am happy to help if it’s in my area of expertise! 😉",
+  hobbies: ["Reading 📖", "Creative Projects 🖌️", "Listening to Music 🎵", "Exploring New Places 🌍"],
+  contact: "📫 Reach out to me at: jenniferblacostes@gmail.com"
+}
 
