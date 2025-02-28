@@ -41,6 +41,7 @@ const jenny = {
   contact: "📫 Reach out to me at: jenniferblacostes@gmail.com"
 }
 ```
+## Skills <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JenJen007&show_icons=true&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&locale=en" alt="GitHub Stats" />
 </p>
@@ -57,3 +58,26 @@ const jenny = {
   </p>
 </details>
 
+## Contact me 🌻
+
+<br>
+<div align="center">
+  <a href="https://www.linkedin.com/in/sophienguyen113/" target="_blank"  rel="noopener noreferrer">
+    <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="sophie-linkedin" />
+  </a>
+  <a href="mailto:sophiengocnguyen113@gmail.com" target="top" rel="noopener noreferrer">
+  <img src="https://img.icons8.com/bubbles/100/000000/gmail-new.png" alt="sophie-email"/>
+  </a>
+</div>
+
+<br>
+<div align="center">
+<a href="https://github.com/SophieNguyen113">
+<img src="https://wallpapercave.com/wp/wp10580805.jpg" width="200px" height="200px" alt="Sunflower">
+</a>
+
+</div>
+
+<img src="https://github.com/SophieNguyen113/SophieNguyen113/blob/main/Sophie%20Nguyen%20-%20CatCat.gif" title="CatCat" alt="CatCat">
+
+<br>
