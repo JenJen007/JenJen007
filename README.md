@@ -16,15 +16,13 @@
 📚 I have a degree in Programming from Universidad Tecnológica Nacional, Argentina
 📝 Passionate about backend development, authentication, and security
 🔭 Working on API development and authentication systems
-🌱 Learning about cybersecurity and cloud technologies
-🌟 Main languages: Python, Java, JavaScript, PHP
-🚀 Interested in scalable and secure web applications
+🌱 Learning about cybersecurity and cloud technologies## Contact me 🌻
 🤝 I’m currently open for: <b>Freelance projects</b> or a new <b>job opportunity</b>, this is <a href="https://portfoliojcl.web.app/" target="_blank">MY PORTFOLIO.</a>
 </pre>
 
 ---
 
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> About me
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> More About Me...
 ```javascript
 const jenny = {
   pronouns: ["she", "her"],
@@ -42,6 +40,16 @@ const jenny = {
 }
 ```
 ## Skills <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;
+### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 25px>  </picture> Programming Languages
+### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 25px>  </picture> Frontend Development
+### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/CP_PS.gif?raw=true" width = 25px>  </picture> Backend Development
+### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 25px>  </picture> Database
+### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width = 25px>  </picture> IDEs
+### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width = 25px>  </picture> Operating Systems
+### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width = 25px>  </picture> Deployment Technologies & Tools
+### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width = 25px>  </picture> Version Control and Tools
+
+<hr>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JenJen007&show_icons=true&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&locale=en" alt="GitHub Stats" />
 </p>
@@ -60,7 +68,6 @@ const jenny = {
 
 ## Contact me 🌻
 
-<br>
 <div align="center">
   <a href="https://www.linkedin.com/in/sophienguyen113/" target="_blank"  rel="noopener noreferrer">
     <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="sophie-linkedin" />
