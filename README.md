@@ -40,14 +40,14 @@ const jenny = {
 }
 ```
 ## Skills <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;
-### <picture> <img src = "https://github.com/JenJen007/JenJen007/blob/main/Images/Programming_Languages.gif?raw=true" width = 25px>  </picture> Programming Languages
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 25px>  </picture> Frontend Development
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/CP_PS.gif?raw=true" width = 25px>  </picture> Backend Development
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 25px>  </picture> Database
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width = 25px>  </picture> IDEs
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width = 25px>  </picture> Operating Systems
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width = 25px>  </picture> Deployment Technologies & Tools
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width = 25px>  </picture> Version Control and Tools
+### <picture> <img src = "https://github.com/JenJen007/JenJen007/blob/main/Images/Programming_Languages.gif?raw=true" width = 30px>  </picture> Programming Languages
+### <picture> <img src = "https://github.com/JenJen007/JenJen007/blob/main/Images/Front_End.gif?raw=true" width = 50px>  </picture> Frontend Development
+### <picture> <img src = "https://github.com/JenJen007/JenJen007/blob/main/Images/Backend_Develoment.gif?raw=true" width = 25px>  </picture> Backend Development
+### <picture> <img src = "https://github.com/JenJen007/JenJen007/blob/main/Images/Software_Tools.gif?raw=true" width = 25px>  </picture> Database
+### <picture> <img src = "https://github.com/JenJen007/JenJen007/blob/main/Images/IDEs.gif?raw=true" width = 25px>  </picture> IDEs
+### <picture> <img src = "https://github.com/JenJen007/JenJen007/blob/main/Images/OS.gif?raw=true" width = 25px>  </picture> Operating Systems
+### <picture> <img src = "https://github.com/JenJen007/JenJen007/blob/main/Images/IDEs.gif?raw=true" width = 25px>  </picture> Deployment Technologies & Tools
+### <picture> <img src = "https://github.com/JenJen007/JenJen007/blob/main/Images/OS.gif?raw=true" width = 25px>  </picture> Version Control and Tools
 
 <hr>
 <p align="center">
