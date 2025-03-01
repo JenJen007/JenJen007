@@ -41,6 +41,28 @@ const jenny = {
 ```
 ## Skills <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;
 ### <picture> <img src = "https://github.com/JenJen007/JenJen007/blob/main/Images/Programming_Languages.gif?raw=true" width = 50px>  </picture> Programming Languages
+<p align="center" style="display: inline-block;">
+  <kbd>
+    <kbd></kbd>
+    <br><br>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+      <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black">
+    </a>
+    &emsp;
+    <a href="https://www.python.org/" target="_blank">
+      <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+    </a>
+    &emsp;
+    <a href="https://www.cprogramming.com/" target="_blank">
+      <img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white">
+    </a>
+    &emsp;
+    <a href="https://en.wikipedia.org/wiki/Shell_script" target="_blank">
+      <img alt="Shell" src="https://img.shields.io/badge/Shell-FFD500?style=for-the-badge&logo=gnu-bash&logoColor=black">
+    </a>
+  </kbd>
+</p>
+
 ### <picture> <img src = "https://github.com/JenJen007/JenJen007/blob/main/Images/Front_End.gif?raw=true" width = 50px>  </picture> Frontend Development
 ### <picture> <img src = "https://github.com/JenJen007/JenJen007/blob/main/Images/Back_End.gif?raw=true" width = 50px>  </picture> Backend Development
 ### <picture> <img src = "https://github.com/JenJen007/JenJen007/blob/main/Images/Software.gif?raw=true" width = 50px>  </picture> Database
