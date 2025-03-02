@@ -392,6 +392,6 @@ const jenny = {
 
 </div>
 
-<img src="https://github.com/SophieNguyen113/SophieNguyen113/blob/main/Sophie%20Nguyen%20-%20CatCat.gif" title="CatCat" alt="CatCat">
+<img src="https://github.com/JenJen007/JenJen007/blob/main/Images/CatCat.gif" title="CatCat" alt="CatCat">
 
 <br>
