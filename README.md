@@ -276,7 +276,7 @@ const jenny = {
     </a>
   </kbd>
 </p>
-<picture> <img src = "https://github.com/JenJen007/JenJen007/blob/main/Images/Git.gif?raw=true" width = 50px>  </picture> Office and Entertaiment Tools
+<picture> <img src = "https://github.com/JenJen007/JenJen007/blob/main/Images/Entertaiment.gif?raw=true" width = 50px>  </picture> Office and Entertaiment Tools
 <p align="center" style="display: inline-block;">
   <kbd>
     <kbd></kbd>
@@ -379,19 +379,16 @@ const jenny = {
 ## Contact me 🌻
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/sophienguyen113/" target="_blank"  rel="noopener noreferrer">
-    <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="sophie-linkedin" />
+  <a href="https://www.linkedin.com/in/jennifer-contreras-lacoste/" target="_blank"  rel="noopener noreferrer">
+    <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="jenny-linkedin" />
   </a>
-  <a href="mailto:sophiengocnguyen113@gmail.com" target="top" rel="noopener noreferrer">
-  <img src="https://img.icons8.com/bubbles/100/000000/gmail-new.png" alt="sophie-email"/>
+  <a href="mailto:jenniferblacostes@gmail.com" target="top" rel="noopener noreferrer">
+  <img src="https://img.icons8.com/bubbles/100/000000/gmail-new.png" alt="jenny-email"/>
   </a>
 </div>
 
 <br>
 <div align="center">
-<a href="https://github.com/SophieNguyen113">
-<img src="https://wallpapercave.com/wp/wp10580805.jpg" width="200px" height="200px" alt="Sunflower">
-</a>
 
 </div>
 
